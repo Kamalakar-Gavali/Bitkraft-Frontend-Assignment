@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Bitkraft-Frontend-Assignment/static/css/main.f5150542.chunk.css",
-    "main.js": "/Bitkraft-Frontend-Assignment/static/js/main.cf4839ab.chunk.js",
-    "main.js.map": "/Bitkraft-Frontend-Assignment/static/js/main.cf4839ab.chunk.js.map",
+    "main.css": "/Bitkraft-Frontend-Assignment/static/css/main.772cb51e.chunk.css",
+    "main.js": "/Bitkraft-Frontend-Assignment/static/js/main.b6a156d5.chunk.js",
+    "main.js.map": "/Bitkraft-Frontend-Assignment/static/js/main.b6a156d5.chunk.js.map",
     "runtime-main.js": "/Bitkraft-Frontend-Assignment/static/js/runtime-main.4fa015f9.js",
     "runtime-main.js.map": "/Bitkraft-Frontend-Assignment/static/js/runtime-main.4fa015f9.js.map",
     "static/js/2.281b551f.chunk.js": "/Bitkraft-Frontend-Assignment/static/js/2.281b551f.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.71372f3a.chunk.js": "/Bitkraft-Frontend-Assignment/static/js/3.71372f3a.chunk.js",
     "static/js/3.71372f3a.chunk.js.map": "/Bitkraft-Frontend-Assignment/static/js/3.71372f3a.chunk.js.map",
     "index.html": "/Bitkraft-Frontend-Assignment/index.html",
-    "static/css/main.f5150542.chunk.css.map": "/Bitkraft-Frontend-Assignment/static/css/main.f5150542.chunk.css.map",
+    "static/css/main.772cb51e.chunk.css.map": "/Bitkraft-Frontend-Assignment/static/css/main.772cb51e.chunk.css.map",
     "static/js/2.281b551f.chunk.js.LICENSE.txt": "/Bitkraft-Frontend-Assignment/static/js/2.281b551f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Bitkraft-Frontend-Assignment/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fa015f9.js",
     "static/js/2.281b551f.chunk.js",
-    "static/css/main.f5150542.chunk.css",
-    "static/js/main.cf4839ab.chunk.js"
+    "static/css/main.772cb51e.chunk.css",
+    "static/js/main.b6a156d5.chunk.js"
   ]
 }
