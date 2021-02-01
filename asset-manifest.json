@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Bitkraft-Frontend-Assignment/static/css/main.65cf9d76.chunk.css",
-    "main.js": "/Bitkraft-Frontend-Assignment/static/js/main.03844281.chunk.js",
-    "main.js.map": "/Bitkraft-Frontend-Assignment/static/js/main.03844281.chunk.js.map",
-    "runtime-main.js": "/Bitkraft-Frontend-Assignment/static/js/runtime-main.4fa015f9.js",
-    "runtime-main.js.map": "/Bitkraft-Frontend-Assignment/static/js/runtime-main.4fa015f9.js.map",
-    "static/js/2.281b551f.chunk.js": "/Bitkraft-Frontend-Assignment/static/js/2.281b551f.chunk.js",
-    "static/js/2.281b551f.chunk.js.map": "/Bitkraft-Frontend-Assignment/static/js/2.281b551f.chunk.js.map",
-    "static/js/3.71372f3a.chunk.js": "/Bitkraft-Frontend-Assignment/static/js/3.71372f3a.chunk.js",
-    "static/js/3.71372f3a.chunk.js.map": "/Bitkraft-Frontend-Assignment/static/js/3.71372f3a.chunk.js.map",
-    "index.html": "/Bitkraft-Frontend-Assignment/index.html",
-    "static/css/main.65cf9d76.chunk.css.map": "/Bitkraft-Frontend-Assignment/static/css/main.65cf9d76.chunk.css.map",
-    "static/js/2.281b551f.chunk.js.LICENSE.txt": "/Bitkraft-Frontend-Assignment/static/js/2.281b551f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Bitkraft-Frontend-Assignment/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.f5150542.chunk.css",
+    "main.js": "/static/js/main.cb7e9e6e.chunk.js",
+    "main.js.map": "/static/js/main.cb7e9e6e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0595109.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0595109.js.map",
+    "static/js/2.281b551f.chunk.js": "/static/js/2.281b551f.chunk.js",
+    "static/js/2.281b551f.chunk.js.map": "/static/js/2.281b551f.chunk.js.map",
+    "static/js/3.71372f3a.chunk.js": "/static/js/3.71372f3a.chunk.js",
+    "static/js/3.71372f3a.chunk.js.map": "/static/js/3.71372f3a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f5150542.chunk.css.map": "/static/css/main.f5150542.chunk.css.map",
+    "static/js/2.281b551f.chunk.js.LICENSE.txt": "/static/js/2.281b551f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fa015f9.js",
+    "static/js/runtime-main.c0595109.js",
     "static/js/2.281b551f.chunk.js",
-    "static/css/main.65cf9d76.chunk.css",
-    "static/js/main.03844281.chunk.js"
+    "static/css/main.f5150542.chunk.css",
+    "static/js/main.cb7e9e6e.chunk.js"
   ]
 }
