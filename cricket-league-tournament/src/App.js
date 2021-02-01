@@ -9,11 +9,13 @@ import Matches from './components/Matches';
 import Scoretable from './components/Scoretable';
 import Result from './components/Result';
 
+
 function App() {
   return (
     <div className="grid-container">
       <BrowserRouter>
     <header>
+      
     <nav>
       <ul>
     <li><NavLink to="/countries" activeClassName='active-link'>Countries</NavLink></li>
@@ -22,15 +24,15 @@ function App() {
     <li><NavLink to='/players' activeClassName='active-link'>Players</NavLink></li>
     <li><NavLink to='/matches' activeClassName='active-link'>Matches</NavLink></li>
     <li><NavLink to='/result' activeClassName='active-link'>Result</NavLink></li>
-    <li><NavLink to='/score-table' activeClassName='active-link'>Tournament Score Table</NavLink></li>
+    <li><NavLink to='/score-table' activeClassName='active-link'>Score Table</NavLink></li>
     </ul>
     </nav>
     </header>
     <main>
-
     <Switch>
-      <Route exact path='/'>
-        Welcome To Portal
+      <Route exact path='/Bitkraft-Frontend-Assignment'>
+        <h1>Welcome To Portal</h1>
+
       </Route>
       <Route path='/countries'>
         <Countries data={data}/>

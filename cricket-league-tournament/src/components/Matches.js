@@ -4,7 +4,7 @@ const  Matches=(props)=>{
     return(
         <>
         <h1>Match List</h1>
-        <table id="matchesTable">
+        <table className="table-style">
         <thead >
             <th>First Team</th>
             <th>Second Team</th>

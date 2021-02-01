@@ -4,7 +4,7 @@ export const data = [
         name: "India",
         flagImg:
           "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
-        link:"https://en.wikipedia.org/wiki/India",
+        link:"https://en.wikipedia.org/wiki/India_national_cricket_team",
         teams:[{
             teamName:"Mumbai Indians",
             captain:"Rohit Sharma",
@@ -176,7 +176,7 @@ export const data = [
       {
         name: "Australia",
         flagImg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgmy5ewlXwKvHQvnb9RMGr2TCoajkTNYWeg&usqp=CAU",
-        link:"https://en.wikipedia.org/wiki/Australia",
+        link:"https://en.wikipedia.org/wiki/Australia_national_cricket_team",
         teams:[
             {
                 teamName:"Aus Challangers",

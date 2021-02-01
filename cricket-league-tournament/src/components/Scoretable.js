@@ -3,8 +3,8 @@ const  Scoretable=(props)=>{
     return(
         <>
         <h1>Tournament Score</h1>
-        <table>
-            <thead className='item-container'>
+        <table className="table-style">
+            <thead>
                 <th ></th>
                 <th>Team</th>
                 <th>Score</th>
@@ -14,7 +14,7 @@ const  Scoretable=(props)=>{
         {
             props.data.map((country,index)=>country.teams.map((team)=>
             
-              <tr className="item-container" key={index}>
+              <tr  key={index}>
                    <td><img src={country.flagImg}/></td>
                     <td>{team.teamName}</td>
                     <td>{team.score}</td>
