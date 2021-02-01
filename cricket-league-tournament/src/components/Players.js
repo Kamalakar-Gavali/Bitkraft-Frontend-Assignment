@@ -12,17 +12,19 @@ const Players = (props) => {
         <>
           <h1>Players Info</h1>
           <table className="table-style">
-            <thead >
-              <th></th>
-              <th>Name</th>
-              <th>Team</th>
+            <thead>
+              <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Team</th>
+              </tr>
             </thead>
             <tbody>
-              {props.data.map((country, index) =>
-                country.teams.map((team) =>
-                  team.players.map((player, index) => (
+              {props.data.map((country,index1) =>
+                country.teams.map((team,index2) =>
+                  team.players.map((player, index3) => (
                     <>
-                      <tr key={index}>
+                      <tr key={index1+index2+index3}>
                         <td>
                           <img src={country.flagImg} />
                         </td>

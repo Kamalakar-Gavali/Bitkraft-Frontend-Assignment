@@ -1,11 +1,11 @@
-import {MatchesData} from './MatchesData'
-const  Matches=(props)=>{
-
-    return(
-        <>
-        <h1>Match List</h1>
-        <table className="table-style">
-        <thead >
+import { MatchesData } from "./MatchesData";
+const Matches = (props) => {
+  return (
+    <>
+      <h1>Match List</h1>
+      <table className="table-style">
+        <thead>
+          <tr>
             <th>First Team</th>
             <th>Second Team</th>
             <th>Winner</th>
@@ -13,24 +13,23 @@ const  Matches=(props)=>{
             <th>Man of The Match</th>
             <th>Bowler of The Match</th>
             <th>Best Fielder</th>
-        
+          </tr>
         </thead>
         <tbody>
-        {MatchesData.map((match,index)=>
+          {MatchesData.map((match, index) => (
             <tr key={index}>
-                <td>{match.firstTeam}</td>
-                <td>{match.secondTeam}</td>
-                <td>{match.winner}</td>
-                <td>{match.looser}</td>
-                <td>{match.manOfTheMatch}</td>
-                <td>{match.bowlerOfTheMatch}</td>
-                <td>{match.bestFielder}</td>
+              <td>{match.firstTeam}</td>
+              <td>{match.secondTeam}</td>
+              <td>{match.winner}</td>
+              <td>{match.looser}</td>
+              <td>{match.manOfTheMatch}</td>
+              <td>{match.bowlerOfTheMatch}</td>
+              <td>{match.bestFielder}</td>
             </tr>
-        )}
+          ))}
         </tbody>
-        
-        </table>
-        </>
-);
-}
+      </table>
+    </>
+  );
+};
 export default Matches;
