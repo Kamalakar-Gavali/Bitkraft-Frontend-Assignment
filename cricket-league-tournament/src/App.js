@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import {data} from './data'
-import {BrowserRouter,Switch,NavLink,Route} from 'react-router-dom'
+import {withRouter,BrowserRouter,Switch,NavLink,Route} from 'react-router-dom'
 import Countries from './components/Countries';
 import Teams from './components/Teams';
 import Players from './components/Players';
